@@ -3,14 +3,18 @@
 
 
 /**
-
- * main - Entry point
-
  *
-
- * Return: Always 0 (Success)
-
- */
+ * *main - This function is for printing a previously given text
+ *
+ * *
+ *
+ * *Description: We use puts for doing this task
+ *
+ * *
+ *
+ * *Return: The exercise requires it must be 0
+ *
+ * */
 
 int main(void)
 
