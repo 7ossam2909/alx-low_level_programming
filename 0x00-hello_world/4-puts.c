@@ -1,20 +1,16 @@
-nclude <stdio.h>
+#include <stdio.h>
 
 
 
 /**
  *
- * *main - This function is for printing a previously given text
- *
- * *
+ * main - This function is for printing a previously given text
  *
  * *Description: We use puts for doing this task
  *
- * *
+ * Return: The exercise requires it must be 0
  *
- * *Return: The exercise requires it must be 0
- *
- * */
+ */
 
 int main(void)
 
@@ -25,4 +21,3 @@ int main(void)
 	return (0);
 
 }
-
